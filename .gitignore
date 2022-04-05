@@ -1,0 +1,5 @@
+.secret
+build
+node_modules
+test
+artifacts
